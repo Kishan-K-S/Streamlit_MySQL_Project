@@ -27,7 +27,7 @@ To deploy this project run
   run app.py
 ```
 
-##SreenShots
+## SreenShots
 ![image](https://user-images.githubusercontent.com/79711475/235580811-5a85b3c9-682e-47dc-a066-e023aef8fb80.png)
 ![image](https://user-images.githubusercontent.com/79711475/235580840-357d9c13-d742-4f9f-b7e0-9ea6543bdbbd.png)
 ![image](https://user-images.githubusercontent.com/79711475/235580874-ef6ab34f-2e94-4b72-bafb-c5bfe1cd7e97.png)
