@@ -24,7 +24,7 @@ Before running the application, setup the mysql database
 To deploy this project run
 
 ```bash
-  run app.py
+  streamlit run app.py
 ```
 
 ## SreenShots
